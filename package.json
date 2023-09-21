@@ -1,0 +1,20 @@
+{
+  "name": "pc-toolkit",
+  "version": "1.0.2",
+  "description": "js 工具库",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "anpengcheng",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.22.15",
+    "eslint": "^8.49.0",
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "collectCoverage": false
+  }
+}
